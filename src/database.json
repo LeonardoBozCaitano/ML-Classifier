@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "habilities": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 2,
+        "habilities": [
+            "Java"
+        ]
+    },
+    {
+        "id": 3,
+        "habilities": [
+            "Delphi"
+        ]
+    },
+    {
+        "id": 4,
+        "habilities": [
+            "Android"
+        ]
+    }
+]
